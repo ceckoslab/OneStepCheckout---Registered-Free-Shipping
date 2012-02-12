@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <onestepcheckout_index_index>
+        <reference name="head">
+            <action method="addJs"><script>oscregisteredfreeshipping.js</script></action>
+        </reference>
+    </onestepcheckout_index_index>
+</layout>

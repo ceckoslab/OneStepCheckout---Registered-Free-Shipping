@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <CeckosLab_OscRegisteredFreeShipping>
+            <active>true</active>
+            <codePool>local</codePool>
+        </CeckosLab_OscRegisteredFreeShipping>
+    </modules>
+</config>
